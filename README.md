@@ -4,3 +4,4 @@ despues cree con un touch el txt para poder reponder
 con un git add agregue lo que respondi y con un git commit guarde la actualizacion del txt que estoy usando
 use un git push para mandarlo a mi repositorio 
 desdes el repositorio acepte la creacion ramas cree otra rama, para la repuesta de la respuesta 2 y hice los mismo paso que en la primera
+https://github.com/jorge24027000/repetidosyp.git
