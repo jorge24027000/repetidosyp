@@ -3,3 +3,5 @@
 2- el hardware, equipo físico utilizado para procesar y almacenar datos, el software, los procedimientos utilizados para transformar y extraer información,
 los datos que representan las actividades de la empresa,
 la red que permite compartir recursos entre computadoras y dispositivos.
+
+3- es  tiene que ver principalmente con la racionalidad tecnico-economica, y trata de crear certidumbre cerrando el nucleo tecnico para muchas variableses ademas se encarga de dirigir sus propias entradas, controlar su propias operaciones, examinar y revisar su propio diseño de sistemas.
